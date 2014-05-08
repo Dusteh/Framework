@@ -1,0 +1,4 @@
+16:43:46.523 TRACE RouterServlet - Received a request from : /home
+16:43:46.523 INFO  MenuRoute - In invoke of MenuRoute
+16:43:46.527 INFO  HomeRoute - In invoke of HomeRoute
+16:43:46.594 TRACE RouterServlet - Received a request from : /login
